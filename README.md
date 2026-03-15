@@ -98,10 +98,6 @@ This means the system finds insights by **meaning**, not just keyword matching. 
 
 ---
 
-
-
----
-
 ## Example Output
 
 Input: `Netflix` / `https://www.netflix.com`
